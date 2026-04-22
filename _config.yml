@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Sahil Negi Portfolio
+description: Professional portfolio showcasing MBA projects, certifications, and skills in supply chain, finance, and business development.
